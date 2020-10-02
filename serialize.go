@@ -1,4 +1,3 @@
-// huge thanks to reddit.com/user/nsd433/
 package main
 
 import (
