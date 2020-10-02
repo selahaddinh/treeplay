@@ -1,3 +1,4 @@
+// thanks for the support of  r/u/nsd433
 package main
 
 import (
